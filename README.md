@@ -1,4 +1,6 @@
-# IPB SUSTAINABLE SCIENCE RESEARCH STUDENTS ASSOCIATION <img src="man/figures/logo.png" align="right" width="150" />
+## IPB SUSTAINABLE SCIENCE RESEARCH STUDENTS ASSOCIATION <img src="https://github.com/ipbssrs/ipbssrs/blob/693d507fb5bb54c072fa98cbe94a675ad8128b74/figure-depan/Logo2_kecil.png" align="right" width="70" />
+<br />
+<br />
 
 
 ![logo](https://github.com/ipbssrs/ipbssrs/blob/cdb6e10676bc227677b02ff79f45ec5500517bf3/17%20RO_b.png)
