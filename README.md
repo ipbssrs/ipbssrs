@@ -21,8 +21,13 @@ This media is directly controlled by
 <br /> Deputy IV - Coordination of Publication Development 
 <br /> IPB Sustainable Science Research Students Association (IPB SSRS Association)
 <br /> IPB University
-<br /> **Address:**_SSRS Agroinformatics Labs & SSRS Publishing Office, Building of Department of Soil Science and Land Resources, Faculty of Agriculture, IPB University, Dramaga 16680 West Java, Indonesia_
+<br /> **Address:** _SSRS Agroinformatics Labs & SSRS Publishing Office, Building of Department of Soil Science and Land Resources, Faculty of Agriculture, IPB University, Dramaga 16680 West Java, Indonesia_
 <br /> **Media:** <a href="https://twitter.com/ipbssrs_assoc">
-  <img src="https://github.com/ipbssrs/ipbssrs/blob/9d7075b4b916601af7be6b1a809b79ca3ae9e6c5/logo-media/twitter.png" alt="Twitter" title="Twitter" width="25" height="25" />
+  <img src="https://github.com/ipbssrs/ipbssrs/blob/9d7075b4b916601af7be6b1a809b79ca3ae9e6c5/logo-media/twitter.png" alt="Twitter" title="Twitter" width="25" height="25" /><a href="https://www.instagram.com/ipbssrs.assoc/">
+  <img src="https://github.com/ipbssrs/ipbssrs/blob/9d7075b4b916601af7be6b1a809b79ca3ae9e6c5/logo-media/instagram.png" alt="Twitter" title="Twitter" width="25" height="25" /><a href="https://www.youtube.com/@ipbssrsassociation254">
+  <img src="https://github.com/ipbssrs/ipbssrs/blob/9d7075b4b916601af7be6b1a809b79ca3ae9e6c5/logo-media/youtube.png" alt="Twitter" title="Twitter" width="25" height="25" /><a href="https://github.com/ipbssrs">
+  <img src="https://github.com/ipbssrs/ipbssrs/blob/9d7075b4b916601af7be6b1a809b79ca3ae9e6c5/logo-media/mail.png" alt="Twitter" title="Twitter" width="25" height="25" />
 
-https://github.com/ipbssrs/ipbssrs/blob/9d7075b4b916601af7be6b1a809b79ca3ae9e6c5/logo-media/twitter.png
+  
+
+
