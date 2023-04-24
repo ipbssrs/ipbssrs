@@ -1,2 +1,2 @@
-![logo](https://github.com/ipbssrs/ipbssrs-assoc/blob/df77a3ddc43902ec48a76ad4819fc08a33ecb400/17%20RO_a.png)
+![logo](https://github.com/ipbssrs/ipbssrs/blob/cdb6e10676bc227677b02ff79f45ec5500517bf3/17%20RO_b.png)
 <br /># ipbssrs-assoc
