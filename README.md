@@ -8,9 +8,17 @@ The IPB SSRS Association was formed on 13  April 2021 which is a student researc
 ### Research Scope
 We focus on research related to agriculture and the environment, including:
 * Agriculture Science
-* Forestry Science
+* Forest Science
 * Marine Science
+* Animal Science
 * Natural Science
 * Human Ecology Science
+* Economic and Policy Science
 
-This media is directly controlled by the Directorate of Scientific Publication Media, Innovation and Strategic Information.
+### _
+This media is directly controlled by 
+<br /> The Directorate of Scientific Publication Media, Innovation and Strategic Information
+<br /> Deputy IV - Coordination of Publication Development 
+<br /> IPB Sustainable Science Research Students Association (IPB SSRS Association)
+<br /> IPB University
+<br /> _SSRS Agroinformatics Labs & SSRS Publishing Office, Building of Department of Soil Science and Land Resources, Faculty of Agriculture, IPB University, Dramaga 16680 West Java, Indonesia_
