@@ -22,6 +22,7 @@ This media is directly controlled by
 <br /> IPB Sustainable Science Research Students Association (IPB SSRS Association)
 <br /> IPB University
 <br /> **Address:**_SSRS Agroinformatics Labs & SSRS Publishing Office, Building of Department of Soil Science and Land Resources, Faculty of Agriculture, IPB University, Dramaga 16680 West Java, Indonesia_
-<br /> **Media:** <a href="[https://twitter.com/danielhendricks/](https://twitter.com/ipbssrs_assoc)">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="25" height="25" />
+<br /> **Media:** <a href="https://twitter.com/ipbssrs_assoc">
+  <img src="https://github.com/ipbssrs/ipbssrs/blob/9d7075b4b916601af7be6b1a809b79ca3ae9e6c5/logo-media/twitter.png" alt="Twitter" title="Twitter" width="25" height="25" />
 
+https://github.com/ipbssrs/ipbssrs/blob/9d7075b4b916601af7be6b1a809b79ca3ae9e6c5/logo-media/twitter.png
