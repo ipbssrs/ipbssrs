@@ -1,3 +1,6 @@
+# IPB SUSTAINABLE SCIENCE RESEARCH STUDENTS ASSOCIATION <img src="man/figures/logo.png" align="right" width="150" />
+
+
 ![logo](https://github.com/ipbssrs/ipbssrs/blob/cdb6e10676bc227677b02ff79f45ec5500517bf3/17%20RO_b.png)
  <a href="https://iopscience.iop.org/article/10.1088/1755-1315/918/1/012011/meta">
   <img src="https://github.com/ipbssrs/ipbssrs/blob/eafa1f3e47d7f4bc30c6d239a0aef5d3762f2f89/figure-depan/Isatrop-peta.png" alt="Vegetation-Map" title="Vegetation Map" width="50%" align="center"/><a href="https://github.com/ipbssrs/RO7-Food"><img src="https://github.com/ipbssrs/ipbssrs/blob/eafa1f3e47d7f4bc30c6d239a0aef5d3762f2f89/figure-depan/agroloss-peta.png" alt="Agriculture-Loss" title="Agriculture Loss" width="50%" align="center"/>
