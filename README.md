@@ -21,4 +21,4 @@ This media is directly controlled by
 <br /> Deputy IV - Coordination of Publication Development 
 <br /> IPB Sustainable Science Research Students Association (IPB SSRS Association)
 <br /> IPB University
-<br /> _SSRS Agroinformatics Labs & SSRS Publishing Office, Building of Department of Soil Science and Land Resources, Faculty of Agriculture, IPB University, Dramaga 16680 West Java, Indonesia_
+<br /> **Address:**_SSRS Agroinformatics Labs & SSRS Publishing Office, Building of Department of Soil Science and Land Resources, Faculty of Agriculture, IPB University, Dramaga 16680 West Java, Indonesia_
