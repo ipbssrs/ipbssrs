@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 <p align="center">
  This media is directly controlled by 
- <br /> The Directorate of Scientific Publication Media, Innovation and Strategic Information**
+ <br /> The Directorate of Scientific Publication Media, Innovation and Strategic Information
  <br /> Deputy IV - Coordination of Publication Development 
  <br /> IPB Sustainable Science Research Students Association (IPB SSRS Association)
  <br /> IPB University
