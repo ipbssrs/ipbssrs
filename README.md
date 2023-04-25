@@ -12,24 +12,24 @@
 The IPB SSRS Association was formed on 13  April 2021 which is a student research organization (ORM) on IPB University and we focused on sustainable science research. The formation of this organization aims to facilitate the research activities of IPB University students so as to produce an important discovery and be packaged in the form of publication of scientific articles of national standard (SINTA) and international (SCOPUS). Today's research, tomorrow's innovation Jayalah Research Indonesia
 
 ### Research Scope
-We focus on research related to agriculture and the environment, and we have 17 research groups namely
-* [![](https://img.shields.io/badge/RO1_-Forest-darkgreen?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-* [![](https://img.shields.io/badge/RO2_-Mangrove-seagreen?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-* [![](https://img.shields.io/badge/RO3_-Agroforestry-green?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-* [![](https://img.shields.io/badge/RO4_-Disaster-red?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-* [![](https://img.shields.io/badge/RO5_-Peatland-purple?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-* [![](https://img.shields.io/badge/RO6_-Urban-darkgoldenrod?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-* [![](https://img.shields.io/badge/RO7_-Food-gold?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-* [![](https://img.shields.io/badge/RO8_-Reclamation-darkred?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-* [![](https://img.shields.io/badge/RO9_-Hydrology-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-* [![](https://img.shields.io/badge/RO10_-Biodiversity-aquamarine?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-* [![](https://img.shields.io/badge/RO11_-Climate-grey?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-* [![](https://img.shields.io/badge/RO12_-Village-darkgrey?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-* [![](https://img.shields.io/badge/RO13_-Fish-darkturquoise?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-* [![](https://img.shields.io/badge/RO14_-Livestock-darkkhaki?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-* [![](https://img.shields.io/badge/RO15_-Coastal-darkgrey?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-* [![](https://img.shields.io/badge/RO16_-Tourism-pink?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-* [![](https://img.shields.io/badge/RO17_-Society-orange?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+We focus on research related to agriculture and the environment, and we have 17 research groups namely:
+* [![](https://img.shields.io/badge/RO1-Forest-darkgreen?style=for-the-badge)](https://github.com/ipbssrs/RO1-Forest)
+* [![](https://img.shields.io/badge/RO2-Mangrove-seagreen?style=for-the-badge)](https://github.com/ipbssrs/RO2-Mangrove)
+* [![](https://img.shields.io/badge/RO3-Agroforestry-green?style=for-the-badge)](https://github.com/ipbssrs/RO3-Agroforestry)
+* [![](https://img.shields.io/badge/RO4-Disaster-red?style=for-the-badge)](https://github.com/ipbssrs/RO4-Disaster)
+* [![](https://img.shields.io/badge/RO5-Peatland-purple?style=for-the-badge)](https://github.com/ipbssrs/RO5-Peatland)
+* [![](https://img.shields.io/badge/RO6-Urban-darkgoldenrod?style=for-the-badge)](https://github.com/ipbssrs/RO6-Urban)
+* [![](https://img.shields.io/badge/RO7-Food-gold?style=for-the-badge)](https://github.com/ipbssrs/RO7-Food)
+* [![](https://img.shields.io/badge/RO8-Reclamation-darkred?style=for-the-badge)](https://github.com/ipbssrs/RO8-Reclamation)
+* [![](https://img.shields.io/badge/RO9-Hydrology-blue?style=for-the-badge)](https://github.com/ipbssrs/RO9-Hydrology)
+* [![](https://img.shields.io/badge/RO10-Biodiversity-aquamarine?style=for-the-badge)](https://github.com/ipbssrs/RO10-Biodiversity)
+* [![](https://img.shields.io/badge/RO11-Climate-grey?style=for-the-badge)](https://github.com/ipbssrs/RO11-Climate)
+* [![](https://img.shields.io/badge/RO12-Village-darkgrey?style=for-the-badge)](https://github.com/ipbssrs/RO12-Village)
+* [![](https://img.shields.io/badge/RO13-Fish-darkturquoise?style=for-the-badge)](https://github.com/ipbssrs/RO13-Fish)
+* [![](https://img.shields.io/badge/RO14-Livestock-darkkhaki?style=for-the-badge)](https://github.com/ipbssrs/RO14-Livestock)
+* [![](https://img.shields.io/badge/RO15-Coastal-darkgrey?style=for-the-badge)](https://github.com/ipbssrs/RO15-Coastal)
+* [![](https://img.shields.io/badge/RO16-Tourism-pink?style=for-the-badge)](https://github.com/ipbssrs/RO16-Tourism)
+* [![](https://img.shields.io/badge/RO17-Society-orange?style=for-the-badge)](https://github.com/ipbssrs/RO17-Society)
   
   
 <br /> ![Generic badge](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)![Generic badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![Generic badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)![Generic badge](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
