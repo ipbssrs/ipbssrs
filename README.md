@@ -13,7 +13,7 @@ The IPB SSRS Association was formed on 13  April 2021 which is a student researc
 
 ### Research Scope
 We focus on research related to agriculture and the environment, and we have 17 research groups namely:
-* [![](https://img.shields.io/badge/RO1-Forest-darkgreen?style=for-the-badge)](https://github.com/ipbssrs/RO1-Forest)![Generic badge](http://img.shields.io/badge/hello-world-green?labelColor=pink)
+* [![](https://img.shields.io/badge/RO1-Forest-darkgreen?style=for-the-badge)](https://github.com/ipbssrs/RO1-Forest) [![](https://img.shields.io/badge/PROJECT-4-darkgreen?style=for-the-badge)](https://github.com/ipbssrs/RO1-Forest) [![](https://img.shields.io/badge/PUBLICATION-5-darkgreen?style=for-the-badge)](https://github.com/ipbssrs/RO1-Forest)
 * [![](https://img.shields.io/badge/RO2-Mangrove-seagreen?style=for-the-badge)](https://github.com/ipbssrs/RO2-Mangrove)
 * [![](https://img.shields.io/badge/RO3-Agroforestry-green?style=for-the-badge)](https://github.com/ipbssrs/RO3-Agroforestry)
 * [![](https://img.shields.io/badge/RO4-Disaster-red?style=for-the-badge)](https://github.com/ipbssrs/RO4-Disaster)
@@ -29,7 +29,7 @@ We focus on research related to agriculture and the environment, and we have 17 
 * [![](https://img.shields.io/badge/RO14-Livestock-darkkhaki?style=for-the-badge)](https://github.com/ipbssrs/RO14-Livestock)
 * [![](https://img.shields.io/badge/RO15-Coastal-darkgrey?style=for-the-badge)](https://github.com/ipbssrs/RO15-Coastal)
 * [![](https://img.shields.io/badge/RO16-Tourism-pink?style=for-the-badge)](https://github.com/ipbssrs/RO16-Tourism)
-* [![](https://img.shields.io/badge/RO17-Society-orange?style=for-the-badge)](https://github.com/ipbssrs/RO17-Society)
+* [![](https://img.shields.io/badge/RO17-Society-orange?style=for-the-badge)](https://github.com/ipbssrs/RO17-Society)  [![](https://img.shields.io/badge/PROJECT-1-orange?style=for-the-badge)](https://github.com/ipbssrs/RO17-Society)  [![](https://img.shields.io/badge/PUBLICATION-1-orange?style=for-the-badge)](https://github.com/ipbssrs/RO17-Society)
   
  
 <br /> ![Generic badge](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)![Generic badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![Generic badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)![Generic badge](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
