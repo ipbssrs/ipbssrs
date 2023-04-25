@@ -20,6 +20,10 @@ We focus on research related to agriculture and the environment, including:
 * Natural Science
 * Human Ecology Science
 * Economic and Policy Science
+<br />
+
+
+![Generic badge](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)![Generic badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![Generic badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)![Generic badge](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)![Generic badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![Generic badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Generic badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![Generic badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### _
 This media is directly controlled by 
@@ -38,9 +42,4 @@ This media is directly controlled by
   <img src="https://github.com/ipbssrs/ipbssrs/blob/9d7075b4b916601af7be6b1a809b79ca3ae9e6c5/logo-media/www.png" alt="website" title="website" width="40" height="40" /><a href="https://www.linkedin.com/company/ipb-sustainable-science-research-students-association/">
   <img src="https://github.com/ipbssrs/ipbssrs/blob/9d7075b4b916601af7be6b1a809b79ca3ae9e6c5/logo-media/linkedin.png" alt="Linkedin" title="Linkedin" width="40" height="40" /><a href="https://www.facebook.com/people/IPB-SSRS-Association/100082564195815/">
   <img src="https://github.com/ipbssrs/ipbssrs/blob/9d7075b4b916601af7be6b1a809b79ca3ae9e6c5/logo-media/facebook.png" alt="facebook" title="facebook" width="40" height="40" /><a href="https://www.researchgate.net/lab/IPB-SSRS-Association-Ipb-Ssrs-Association-2">
-  <img src="https://github.com/ipbssrs/ipbssrs/blob/72c1d782bba8589d5429e8cb2426dccf50f11b6e/logo-media/1200px-ResearchGate_icon_SVG.svg.png" alt="ResearchGate" title="ResearchGate" width="40" height="40" />
-  
-  
-  
-
-
+  <img src="https://github.com/ipbssrs/ipbssrs/blob/72c1d782bba8589d5429e8cb2426dccf50f11b6e/logo-media/1200px-ResearchGate_icon_SVG.svg.png" alt="ResearchGate" title="ResearchGate" width="40" height="40" />  
