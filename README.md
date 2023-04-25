@@ -31,9 +31,11 @@ We focus on research related to agriculture and the environment, and we have 17 
 * [![](https://img.shields.io/badge/RO16-Tourism-pink?style=for-the-badge)](https://github.com/ipbssrs/RO16-Tourism)
 * [![](https://img.shields.io/badge/RO17-Society-orange?style=for-the-badge)](https://github.com/ipbssrs/RO17-Society)
   
-  
+ 
 <br /> ![Generic badge](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)![Generic badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![Generic badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)![Generic badge](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
 <br /> ![Generic badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![Generic badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Generic badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![Generic badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+ 
+
 ________________________________________________________________________________________________________________________________________________________
 
 <p align="center">
@@ -42,9 +44,9 @@ ________________________________________________________________________________
  <br /> Deputy IV - Coordination of Publication Development 
  <br /> IPB Sustainable Science Research Students Association (IPB SSRS Association)
  <br /> IPB University
-<br /> Address: SSRS Agroinformatics Labs & SSRS Publishing Office, Building of Department of Soil Science and Land Resources, Faculty of Agriculture, IPB University, Dramaga 16680 West Java, Indonesia
-<br /> 
-<br /> <a href="https://twitter.com/ipbssrs_assoc">
+ <br /> Address: SSRS Agroinformatics Labs & SSRS Publishing Office, Building of Department of Soil Science and Land Resources, Faculty of Agriculture, IPB University, Dramaga 16680 West Java, Indonesia
+ <br /> 
+ <br /> <a href="https://twitter.com/ipbssrs_assoc">
   <img src="https://github.com/ipbssrs/ipbssrs/blob/9d7075b4b916601af7be6b1a809b79ca3ae9e6c5/logo-media/twitter.png" alt="Twitter" title="Twitter" width="40" height="40" /><a href="https://www.instagram.com/ipbssrs.assoc/">
   <img src="https://github.com/ipbssrs/ipbssrs/blob/9d7075b4b916601af7be6b1a809b79ca3ae9e6c5/logo-media/instagram.png" alt="instagram" title="instagram" width="40" height="40" /><a href="https://www.youtube.com/@ipbssrsassociation254">
   <img src="https://github.com/ipbssrs/ipbssrs/blob/9d7075b4b916601af7be6b1a809b79ca3ae9e6c5/logo-media/youtube.png" alt="youtube" title="youtube" width="40" height="40" /><a href="https://github.com/ipbssrs">
