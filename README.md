@@ -19,11 +19,10 @@ We focus on research related to agriculture and the environment, including:
 * Animal Science
 * Natural Science
 * Human Ecology Science
-* Economic and Policy Science
-<br />
-
-
-![Generic badge](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)![Generic badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![Generic badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)![Generic badge](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)![Generic badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![Generic badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Generic badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![Generic badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+* Economic and Policy Science 
+  
+<br /> ![Generic badge](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)![Generic badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![Generic badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)![Generic badge](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
+<br /> ![Generic badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![Generic badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Generic badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![Generic badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### _
 This media is directly controlled by 
